@@ -1,5 +1,5 @@
 # coursera_machine_learning_specialziation
-A place to hold source code or python notebook for my work for this coursera specialization.
+A place for source code or python notebook of my work for this coursera specialization.
 
 I would like to use this place to share course related information with other certificate seekers.
 The course content is not as flat as a plain paper. I guess some quiz and assignment could be rather tough for those with weaker programming and maths background. So I will try to present my work for the quizs and assignment clearly. Hope everyone gets the most from the course.
