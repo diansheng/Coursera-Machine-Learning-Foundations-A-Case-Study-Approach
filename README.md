@@ -1,4 +1,4 @@
-# coursera_machine_learning_specialziation
+# About
 A place for source code or python notebook of my work for this coursera specialization.
 
 I would like to use this place to share course related information with other certificate seekers.
