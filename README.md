@@ -10,4 +10,4 @@ The main purpose is not to help people cheat for certificates, but rather to sha
 ##Machine Learning Foundations: A Case Study Approach##
 
 Someone has posted answers to quiz and assignment [here](https://da8y01.github.io/gh-blog/2015/12/26/machine-learning-specialization-1.html). Although a few questions have changed by now, it still serves as a good reference.
-You can find the source code for my assignment in the ipynb files under the corresponding folders. The codes are marked as *# Assignment Question X* so that you can easily find it.
+You can find the source code for my assignment in the ipynb files under the corresponding folders. The codes are marked as *# Assignment Quiz X* so that you can easily find it.
